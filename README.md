@@ -45,7 +45,6 @@ relocation_interests: ["Japan", "Singapore", "California", "LA", "Dubai"]
 <p align="center">
   <a href="https://guilyx.vercel.app/api/now-playing?open">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Ftheonewhodoesntdraw%2Fart%2FGoogle-Play-Logo-Template-518405288&psig=AOvVaw3ZPXYbx4yNJsFh7NaECM1j&ust=1627319781360000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC8juTc_vECFQAAAAAdAAAAABAD">
   </a>
 </p>
 
