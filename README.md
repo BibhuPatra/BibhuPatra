@@ -1,7 +1,7 @@
 ### Hi there, I'm Bibhu - aka [Bot Ptr][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bot-ptr-react.netlifi.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BibhuPtr?s=09)
+[![Website](https://img.shields.io/website?label=https://bot-ptr.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bot-ptr-react.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BotPtr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BibhuPtr?s=09)
 
 ## I'm a Son, Brother, Developer, and Good Companion!!
 
