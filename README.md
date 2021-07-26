@@ -1,5 +1,5 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/BibhuPatra)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/BibhuPatra)
+[![Actions Status](https://github.com/BibhuPatra/BibhuPatra/workflows/work-stats/badge.svg)](https://bot-ptr.netlify.app)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://bot-ptr-react.netlify.app)
 ![](https://visitor-badge.glitch.me/badge?page_id=BibhuPatra.BibhuPatra)
 
 <p align="center">
