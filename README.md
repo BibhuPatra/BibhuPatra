@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/work-stats/badge.svg)](https://bot-ptr.netlify.app)
+[![Actions Status](https://github.com/guilyx/guilyx/workflows/walking-stats/badge.svg)](https://bot-ptr.netlify.app)
 [![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://bot-ptr-react.netlify.app)
 ![](https://visitor-badge.glitch.me/badge?page_id=BibhuPatra.BibhuPatra)
 
