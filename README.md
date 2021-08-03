@@ -22,7 +22,7 @@
 </p>
 
 ```yaml
-name: Bibhu Patra
+name: Purru
 located_in: Odisha, India
 from: India
 education: ["Bachelor's in Computer Science"]
