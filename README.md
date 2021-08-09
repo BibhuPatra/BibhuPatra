@@ -30,7 +30,6 @@ job: Sofware Engineer
 company: Capgemini India
 technical_interests: [ "React JS", "Node JS" "Dot Net","Express Js", 
                       "Mongo DB", "Oracle","Ab Initio"]
-                      ]
 currently_learning: ["Software Development", "Core Java","MERN"]
 hobbies: ["Football", "Cinema", "Athetic Thinking",
           "Making Google Assist do/say dumb stuff", "Anything dumb and useless"]
