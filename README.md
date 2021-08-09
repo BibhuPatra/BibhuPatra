@@ -28,8 +28,9 @@ from: India
 education: ["Bachelor's in Computer Science"]
 job: Sofware Engineer
 company: Capgemini India
-technical_interests: ["Express Js", "Mongo DB", "Oracle","Ab Initio", 
-                      "Dot Net", "React JS", "Node JS"]
+technical_interests: [ "React JS", "Node JS" "Dot Net","Express Js", 
+                      "Mongo DB", "Oracle","Ab Initio"]
+                      ]
 currently_learning: ["Software Development", "Core Java","MERN"]
 hobbies: ["Football", "Cinema", "Athetic Thinking",
           "Making Google Assist do/say dumb stuff", "Anything dumb and useless"]
@@ -82,7 +83,7 @@ Wednesday    240 commits    ████░░░░░░░░░░░░░�
 Thursday     159 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
 Friday       158 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
 Saturday     141 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
-Sunday       104 commits    ███████████████████░░░░░░   71.77%
+Sunday       104 commits    ██████████████░░░░░░░░░░░   61.77%
 
 ```
 
