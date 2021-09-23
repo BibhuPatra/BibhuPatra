@@ -48,10 +48,6 @@ relocation_interests: ["Japan", "Singapore", "California", "LA", "Dubai"]
   </a>
 </p>
 
-<p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
-</p>
- 
 ```yaml
 section: spotify components info
 original_idea: natemoo-re
